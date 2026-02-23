@@ -5,7 +5,7 @@ const { getRecords, setRecord, getAuthStatus, setAuthStatus, importRecords } = r
 
 const app = express();
 const PORT = 3006;
-const LOGIN_CODE = '233888';
+const LOGIN_CODE = '963766';
 
 app.use(cors());
 app.use(express.json());
