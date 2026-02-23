@@ -42,7 +42,7 @@
 
 直接访问一个网址使用
 
-https://chat.z.ai/space/m1pn610jf2d1-art
+https://chat.z.ai/space/r14na1kfebn1-art
 
 这也是用的单html文件，缓存存储在浏览器localStorage中，不保证该网址一直有效，只要浏览器不清空缓存，数据就不会丢失，请注意导出json文件备份数据，避免数据丢失。
 
